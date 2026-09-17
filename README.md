@@ -19,7 +19,7 @@ MySQL • SQL
 JavaFX
 
 ### Outras tecnologias
-C • TypeScript • Git • GitHub
+C • TypeScript • Angular
 
 ## 🚀 Projetos em destaque
 
