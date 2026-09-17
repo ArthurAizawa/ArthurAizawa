@@ -1,4 +1,4 @@
-# Olá! Eu sou o Arthur 👋
+# 👋 Bem-Vindo ao meu perfil
 
 🎓 Estudante de Sistemas de Informação  
 💻 Desenvolvedor em formação  
