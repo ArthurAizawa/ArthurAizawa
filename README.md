@@ -48,4 +48,4 @@ vendedores e departamentos utilizando JDBC e MySQL.
 
 ## 📫 Contato
 
-[LinkedIn](in/arthur-aizawa)
+[LinkedIn](https://www.linkedin.com/in/arthur-aizawa/)
